@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am arun kumar gond<br>Iam pursuing mca at rama university <br>I have completed my graduation in bca at rama university <br>I am fresher <br>
+I am arun kumar gond<br>I am pursuing mca at rama university <br>I have completed my graduation in bca at rama university <br>I am full Stack developer <br>
 
 
 ## 🌐 Socials:
